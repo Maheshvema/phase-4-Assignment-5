@@ -1,0 +1,14 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\bin\Debug\net6.0\ConAppMovies.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\bin\Debug\net6.0\ConAppMovies.deps.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\bin\Debug\net6.0\ConAppMovies.runtimeconfig.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\bin\Debug\net6.0\ConAppMovies.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\bin\Debug\net6.0\ConAppMovies.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ConAppMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ConAppMovies.AssemblyInfoInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ConAppMovies.AssemblyInfo.cs
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ConAppMovies.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ConAppMovies.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\refint\ConAppMovies.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ConAppMovies.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ConAppMovies.genruntimeconfig.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-5 Assignment\ConAppMovies\ConAppMovies\obj\Debug\net6.0\ref\ConAppMovies.dll
